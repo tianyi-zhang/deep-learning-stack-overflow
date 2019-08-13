@@ -19,7 +19,7 @@ remove_other -- whether remove the posts labeled with "Other" category
 
 ## Dataset
 
-All the data used in this study can be downloaded from this [link](). You can put the folder in the master directory, i.e., `../data`. The `dl_framework_stackoverflow_questions` file contains all the 39,628 studied deap-learning-related questions on Stack Overflow. The `Manual_Inspection.xlsx` file iincludes the labeled 715 questions on three deep learning platforms. The `meta-data.csv` file saves the meta data for each question, such as the response time. The manually labeled keywords are listed in `../data/sto/keyword.csv`. Other files are generated files during running.
+All the data used in this study can be downloaded from this [link](https://drive.google.com/open?id=1bKCX2raszVo7BVGhIkY_Xlt3EoXgHq0k). You can put the folder in the master directory, i.e., `../data`. The `dl_framework_stackoverflow_questions` file contains all the 39,628 studied deap-learning-related questions on Stack Overflow. The `Manual_Inspection.xlsx` file iincludes the labeled 715 questions on three deep learning platforms. The `meta-data.csv` file saves the meta data for each question, such as the response time. The manually labeled keywords are listed in `../data/sto/keyword.csv`. Other files are generated files during running.
 
 ## Citation
 Please cite our ISSRE paper if you use our method / datasets in your work
